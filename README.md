@@ -1,6 +1,6 @@
 # Belgian HackerSpaces and FabLabs
 
-An artistic rendering of (some of) the Belgian HackerSpaces and FabLabs  
+ 
 Christophe VG <contact@christophe.vg>  
 [https://github.com/christophevg/BelgianHackerSpaces](https://github.com/christophevg/BelgianHackerSpaces)
 
@@ -17,6 +17,6 @@ The repository contains the Illustrator file and images used to trace the logos.
 
 ### Version 1.0
 
-![Belgian HackerSpaces and FabLabs](BelgianHackerSpaces.jpg)
+![Belgian HackerSpaces and FabLabs](BelgianHackerSpaces-v1.jpg)
 
 <p align="center"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Belgian HackerSpace and FabLabs</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://christophe.vg" property="cc:attributionName" rel="cc:attributionURL">Christophe VG</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/christophevg/BelgianHackerSpaces" rel="dct:source">https://github.com/christophevg/BelgianHackerSpaces</a>.</p>
